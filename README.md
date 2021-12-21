@@ -1,2 +1,2 @@
-# time_series
-Python Time Series Data Analysis 
+### 시계열 데이터 분석방법 정리 
+* 파이썬을 이용하여 시계열 특성의 데이터 분석 
